@@ -1,0 +1,20 @@
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\bin\Debug\Görsel_Program_Fİnal_Proje.exe.config
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\bin\Debug\Görsel_Program_Fİnal_Proje.exe
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\bin\Debug\Görsel_Program_Fİnal_Proje.pdb
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.csprojAssemblyReference.cache
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.Form1.resources
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.Properties.Resources.resources
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.exe
+C:\Users\monster\source\repos\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.pdb
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\bin\Debug\Görsel_Program_Fİnal_Proje.exe.config
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\bin\Debug\Görsel_Program_Fİnal_Proje.exe
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\bin\Debug\Görsel_Program_Fİnal_Proje.pdb
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.csprojAssemblyReference.cache
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.Form1.resources
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.Properties.Resources.resources
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.exe
+C:\Users\monster\Desktop\Utku Şengün Projeler\Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje\obj\Debug\Görsel_Program_Fİnal_Proje.pdb

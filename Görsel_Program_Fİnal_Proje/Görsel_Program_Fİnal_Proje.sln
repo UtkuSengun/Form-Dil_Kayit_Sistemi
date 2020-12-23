@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Görsel_Program_Fİnal_Proje", "Görsel_Program_Fİnal_Proje\Görsel_Program_Fİnal_Proje.csproj", "{663AF090-017C-4B7D-9F1C-E0522CD33395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663AF090-017C-4B7D-9F1C-E0522CD33395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663AF090-017C-4B7D-9F1C-E0522CD33395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663AF090-017C-4B7D-9F1C-E0522CD33395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663AF090-017C-4B7D-9F1C-E0522CD33395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFD94BF-7BEB-4A2B-8D6D-FF69E7AAA8EE}
+	EndGlobalSection
+EndGlobal
